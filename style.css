@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 #new-book-btn {
   display: block;
   margin: 0 auto;
@@ -101,7 +107,7 @@ input[type="submit"]:hover {
 
 .book-pages {
   margin: 0;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .book-status {
